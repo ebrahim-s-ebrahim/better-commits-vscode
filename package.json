@@ -1,6 +1,6 @@
 {
   "name": "better-commits-vscode",
-  "displayName": "Better Commits",
+  "displayName": "Better Commits for VS Code",
   "description": "A guided conventional commit message wizard integrated into VS Code's Source Control panel",
   "version": "0.1.0",
   "publisher": "ebrahim-s-ebrahim",
